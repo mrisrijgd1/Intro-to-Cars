@@ -1,6 +1,6 @@
 # Intro-to-Cars
 ## Intro to Cars Dataset
-#This is an intro to `cars`. The data give the speed of cars and the distances taken to stop. Note that the data were recorded in the 1920s. We are giving a name to the dataset. With `tim` we can see the dimension of a matrix/data frame.
+#This is an intro to `cars`. The data give the speed of cars and the distances taken to stop. Note that the data were recorded in the 1920s. We are giving a name to the dataset. With `dim` we can see the dimension of a matrix/data frame.
 ```{r}
 cars.data <- cars
 dim(cars.data)
